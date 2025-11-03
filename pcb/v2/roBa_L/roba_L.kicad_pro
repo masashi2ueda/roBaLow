@@ -492,7 +492,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "export/",
+      "plot": "dist/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "balo43_L.step",
