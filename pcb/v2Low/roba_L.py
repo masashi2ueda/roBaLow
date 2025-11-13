@@ -2,6 +2,9 @@
 import pcbnew
 
 board = pcbnew.GetBoard()
+module = board.FindFootprintByReference("U1")
+print("U1:", module)
+
 pitch_x = 17.0  # 横ピッチ mm
 pitch_y = 17.0  # 縦ピッチ mm
 start_x, start_y = 50, 50  # 原点座標
@@ -56,8 +59,10 @@ for c in range(2):
 
 # promicro
 module = board.FindFootprintByReference("U1")
-print("U1:", module)
-# module.SetPosition(pcbnew.VECTOR2I_MM(base_x, base_y))
+# print("U1:", module)
+U1_y = 25 # ずらし量 mm
+U1_x_offset = 5
+module.SetPosition(pcbnew.VECTOR2I_MM(base_x + U1_x_offset, U1_y))
 
 
 # 親指1
