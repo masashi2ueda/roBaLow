@@ -2263,7 +2263,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "0fe1da6e-f7b5-49d2-913d-fdbbed0acd53")
-		(at 152.833125 116.965942)
+		(at 82 45)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D10"
 			(at 3.302 0 0)
@@ -2412,7 +2412,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "120beb5c-6291-45ce-9662-126560caad6e")
-		(at 159.18625 114.575314)
+		(at 116 36.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D17"
 			(at 3.302 0 0)
@@ -2561,7 +2561,7 @@
 	(footprint "roBa:XIAO_nRF52840_wBAT_wNFC_1"
 		(layer "F.Cu")
 		(uuid "19a994de-c562-41af-ad4f-a85d180d3e7b")
-		(at 135.88 29.12)
+		(at 140 25)
 		(descr "https://gitlab.com/lpgalaxy/revxlp(xiao-ble-smd)")
 		(property "Reference" "U1"
 			(at 0 6.9 0)
@@ -3093,7 +3093,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "1c10c1f8-fba6-41fc-b267-b2dcbc9033f8")
-		(at 146.48 121.747198)
+		(at 48 96)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D4"
 			(at 3.302 0 0)
@@ -3242,7 +3242,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "1f29bda7-d7b4-4159-9bac-ead7d64b58ba")
-		(at 146.48 116.965942)
+		(at 48 62)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D2"
 			(at 3.302 0 0)
@@ -4461,7 +4461,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "2df7daa9-e609-49e0-bb9f-f27cf3930ba1")
-		(at 146.48 119.35657)
+		(at 48 79)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D3"
 			(at 3.302 0 0)
@@ -4610,7 +4610,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "3e26cb71-c37e-495b-a2e9-80739cf3a36c")
-		(at 146.48 128.919082)
+		(at 65 70.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D7"
 			(at 3.302 0 0)
@@ -4759,7 +4759,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "418a59b9-05ec-4f01-86cb-5d37f7d4a092")
-		(at 146.48 114.575314)
+		(at 48 45)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D1"
 			(at 3.302 0 0)
@@ -6212,7 +6212,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "53a3e4a7-cbe2-402d-9705-331f4ae94149")
-		(at 152.833125 126.528454)
+		(at 99 49.25)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D14"
 			(at 3.302 0 0)
@@ -7431,7 +7431,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "5ac6595a-7fd6-4a28-87b7-8e53abf08266")
-		(at 159.18625 128.919082)
+		(at 137 99)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D23"
 			(at 3.302 0 0)
@@ -8650,7 +8650,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "659b27d8-bcde-4fc5-9f96-8da97224cc76")
-		(at 159.18625 124.137826)
+		(at 133 53.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D21"
 			(at 3.302 0 0)
@@ -8799,7 +8799,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "6b65b99a-e263-4b3a-b954-6313618b26cb")
-		(at 152.833125 128.919082)
+		(at 99 66.25)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D15"
 			(at 3.302 0 0)
@@ -10018,7 +10018,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "6d85171b-fedb-49b8-a137-e9eb63f15795")
-		(at 152.833125 114.575314)
+		(at 82 28)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D9"
 			(at 3.302 0 0)
@@ -10167,7 +10167,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "71c7a81d-8631-46d3-a1a2-394f14665ae4")
-		(at 159.18625 119.35657)
+		(at 116 70.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D19"
 			(at 3.302 0 0)
@@ -10316,7 +10316,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "75be285b-0dad-4a82-a480-4241bd45375e")
-		(at 152.833125 119.35657)
+		(at 82 62)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D11"
 			(at 3.302 0 0)
@@ -13675,7 +13675,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "7fb6ea89-ad8c-4462-9436-60034c1c2bc4")
-		(at 159.18625 121.747198)
+		(at 120 97)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D20"
 			(at 3.302 0 0)
@@ -13824,7 +13824,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "8338585b-82ff-4ac4-b8af-a76347855269")
-		(at 146.48 124.137826)
+		(at 65 36.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D5"
 			(at 3.302 0 0)
@@ -13973,7 +13973,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "84cc4bd9-cedd-4f9c-a669-44ad5c7b9438")
-		(at 152.833125 121.747198)
+		(at 82 79)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D12"
 			(at 3.302 0 0)
@@ -16262,7 +16262,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "97452421-478c-472e-bfce-ff8649c6e896")
-		(at 146.48 131.30971)
+		(at 65 87.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D8"
 			(at 3.302 0 0)
@@ -18710,7 +18710,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "b35aff2d-5091-448c-8deb-fe77ff29e539")
-		(at 146.48 126.528454)
+		(at 65 53.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D6"
 			(at 3.302 0 0)
@@ -20999,7 +20999,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "ccd7b150-8490-442a-9b33-2945f84ba1de")
-		(at 159.18625 126.528454)
+		(at 133 70.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D22"
 			(at 3.302 0 0)
@@ -24358,7 +24358,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "deb135f9-53c5-4fd7-957a-c3e699add9f2")
-		(at 152.833125 131.30971)
+		(at 103 95)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D16"
 			(at 3.302 0 0)
@@ -25577,7 +25577,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "e36849e9-a082-4ca2-813a-3353ffbfa057")
-		(at 159.18625 116.965942)
+		(at 116 53.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D18"
 			(at 3.302 0 0)
@@ -27866,7 +27866,7 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "ede71588-b41a-41b3-8ede-bb5dafa37955")
-		(at 152.833125 124.137826)
+		(at 99 32.25)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D13"
 			(at 3.302 0 0)
