@@ -66,6 +66,17 @@ U1_y = 25 # ずらし量 mm
 U1_x_offset = 5
 module.SetPosition(pcbnew.VECTOR2I_MM(base_x + U1_x_offset, U1_y))
 
+# バッテリー
+module = board.FindFootprintByReference("B1")
+U1_y = 45 # ずらし量 mm
+module.SetPosition(pcbnew.VECTOR2I_MM(base_x + U1_x_offset, U1_y))
+
+# スイッチ
+module = board.FindFootprintByReference("SW24")
+U1_y = 80 # ずらし量 mm
+U1_x_offset = 10
+module.SetOrientationDegrees(-90)
+module.SetPosition(pcbnew.VECTOR2I_MM(base_x + U1_x_offset, U1_y))
 
 # 親指1
 base_x = 105
@@ -83,3 +94,5 @@ base_y += 2
 set_swith_diode(23, base_x, base_y)
 
 pcbnew.Refresh()
+
+# %%
