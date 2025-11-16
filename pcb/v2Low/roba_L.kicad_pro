@@ -505,7 +505,7 @@
       "netlist": "",
       "plot": "export/",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "roba_L.dsn",
       "step": "balo43_L.step",
       "svg": "",
       "vrml": "roba_L.wrl"

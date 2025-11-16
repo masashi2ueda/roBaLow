@@ -1,5 +1,6 @@
-# exec(open(r"D:\develop\roBaLow\pcb\v2Low\roba_L.py").read())
+# exec(open(r"D:\develop\roBaLow\pcb\v2Low\roba_L_position.py").read())
 import pcbnew
+
 
 board = pcbnew.GetBoard()
 
@@ -62,19 +63,20 @@ for c in range(2):
 # promicro
 module = board.FindFootprintByReference("U1")
 # print("U1:", module)
-U1_y = 25 # ずらし量 mm
-U1_x_offset = 5
+U1_y = 20 # ずらし量 mm
+U1_x_offset = 3
 module.SetPosition(pcbnew.VECTOR2I_MM(base_x + U1_x_offset, U1_y))
 
 # バッテリー
 module = board.FindFootprintByReference("B1")
-U1_y = 45 # ずらし量 mm
-module.SetPosition(pcbnew.VECTOR2I_MM(base_x + U1_x_offset, U1_y))
+bt_y = 40 # ずらし量 mm
+bt_x_offset = 2
+module.SetPosition(pcbnew.VECTOR2I_MM(base_x + bt_x_offset, bt_y))
 
 # スイッチ
 module = board.FindFootprintByReference("SW24")
 U1_y = 80 # ずらし量 mm
-U1_x_offset = 10
+U1_x_offset = 15
 module.SetOrientationDegrees(-90)
 module.SetPosition(pcbnew.VECTOR2I_MM(base_x + U1_x_offset, U1_y))
 
@@ -94,5 +96,3 @@ base_y += 2
 set_swith_diode(23, base_x, base_y)
 
 pcbnew.Refresh()
-
-# %%
