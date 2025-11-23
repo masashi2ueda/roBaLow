@@ -1,4 +1,9 @@
-# pcbの作成手順
+## 基板の改修
+1. proを開いて、設定→フットプリントライブラリ→プロジェクト固有→roBaのパスをroBaLow\pcb\_kicad_footprintsにする
+1. 右上のフットプリントを割り当て→全てのスイッチを選択ChocV2_Hotswap:Choc_v2_Hotswap_1uをクリック
+1. 
+
+## pcbの作成手順
 1. pcbエディター>ツール>スクリプトコンソール
 1. shellで下記で部品を配置
     ```sh

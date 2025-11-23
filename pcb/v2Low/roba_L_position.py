@@ -81,8 +81,8 @@ module.SetOrientationDegrees(-90)
 module.SetPosition(pcbnew.VECTOR2I_MM(base_x + U1_x_offset, U1_y))
 
 # 親指1
-base_x = 105
-base_y = 100
+base_x = 102
+base_y = 95
 set_swith_diode(16, base_x, base_y)
 
 # 親指2
