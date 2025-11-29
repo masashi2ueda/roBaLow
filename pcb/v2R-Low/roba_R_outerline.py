@@ -1,4 +1,4 @@
-# exec(open(r"D:\develop\roBaLow\pcb\v2Low\roba_L_outerline.py").read())
+# exec(open(r"D:\develop\roBaLow\pcb\v2R-Low\roba_R_outerline.py").read())
 import pcbnew
 import math
 
@@ -54,24 +54,46 @@ sw_mgn_y = 10
 u1_mgn_y = 0
 dsw_mgn_x = 0
 
-sw1_x, sw1_y = get_ref_pos_mm("SW1")
-left_x = sw1_x - sw_mgn_x
+sw1_x, sw1_y = get_ref_pos_mm("SW17")
+right_x = sw1_x + sw_mgn_x
+
 u1_x, u1_y = get_ref_pos_mm("U1")
 top_y = u1_y + u1_mgn_y
-dsw_x, _ = get_ref_pos_mm("SW24")
-right_x = dsw_x + dsw_mgn_x
 
-_, sw23_y = get_ref_pos_mm("SW23")
-_, sw4_y = get_ref_pos_mm("SW4")
+dsw_x, _ = get_ref_pos_mm("SW21")
+left_x = dsw_x - dsw_mgn_x
+
+_, sw23_y = get_ref_pos_mm("SW21")
+_, sw4_y = get_ref_pos_mm("SW20")
 sw_m_y = max(sw23_y, sw4_y)
 bottom_y = sw_m_y + sw_mgn_y
 
+top_left = (left_x, top_y)
+top_right = (right_x, top_y)
+bottom_right = (right_x, bottom_y)
+
+ms_x, ms_y = get_ref_pos_mm("J1")
+sw16_x, _ = get_ref_pos_mm("SW16")
+sw16_x_mgn = 10
+ms_x_mgn = 2.2
+ms_y_mgn = -25
+ms_1 = (ms_x - ms_x_mgn, bottom_y)
+ms_2 = (ms_x - ms_x_mgn, bottom_y + ms_y_mgn)
+ms_3 = (sw16_x + sw16_x_mgn, bottom_y + ms_y_mgn)
+ms_4 = (sw16_x + sw16_x_mgn, bottom_y)
+
+bottom_left = (left_x, bottom_y)
+
 
 pts_mm = [
-    (left_x, top_y),
-    (right_x, top_y),
-    (right_x, bottom_y),
-    (left_x, bottom_y),
+    top_left,
+    top_right,
+    bottom_right,
+    ms_1,
+    ms_2,
+    ms_3,
+    ms_4,
+    bottom_left,
 ]
 for pt in pts_mm:
     print("pt:", pt)
@@ -82,10 +104,4 @@ clear_edge_cuts(board)
 draw_outerline(pts_mm)
 
 pcbnew.Refresh()
-# %%
-448627/63016
-# %%
-38021/(172993-70438 )
-# %%
-365/448627*8328
 # %%

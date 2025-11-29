@@ -3343,7 +3343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 204.47 80.01 0)
 			(effects
 				(font
@@ -3480,7 +3480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 223.52 80.01 0)
 			(effects
 				(font
@@ -3547,7 +3547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX_Choc"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 223.52 97.79 0)
 			(effects
 				(font
@@ -3824,7 +3824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 223.52 60.96 0)
 			(effects
 				(font
@@ -3891,7 +3891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 166.37 60.96 0)
 			(effects
 				(font
@@ -3958,7 +3958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX_Choc"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 204.47 97.79 0)
 			(effects
 				(font
@@ -4705,7 +4705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 166.37 80.01 0)
 			(effects
 				(font
@@ -4907,7 +4907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 223.52 41.91 0)
 			(effects
 				(font
@@ -4974,7 +4974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 166.37 97.79 0)
 			(effects
 				(font
@@ -5113,7 +5113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 242.57 60.96 0)
 			(effects
 				(font
@@ -5318,7 +5318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 204.47 41.91 0)
 			(effects
 				(font
@@ -5591,7 +5591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 242.57 80.01 0)
 			(effects
 				(font
@@ -5728,7 +5728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 204.47 60.96 0)
 			(effects
 				(font
@@ -5795,7 +5795,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 185.42 97.79 0)
 			(effects
 				(font
@@ -5927,7 +5927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 242.57 97.79 0)
 			(effects
 				(font
@@ -6203,7 +6203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 185.42 41.91 0)
 			(effects
 				(font
@@ -6421,7 +6421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 185.42 60.96 0)
 			(effects
 				(font
@@ -6963,7 +6963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 185.42 80.01 0)
 			(effects
 				(font
@@ -7095,7 +7095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "roBa:SW_MX"
+		(property "Footprint" "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 			(at 242.57 41.91 0)
 			(effects
 				(font

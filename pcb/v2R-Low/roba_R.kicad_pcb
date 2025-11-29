@@ -121,12 +121,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "014ba3eb-4951-49f1-959d-90aa619326c8")
-		(at 139.135 98.83)
+		(at 250 101)
 		(property "Reference" "SW20"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5498b818-cd62-48d7-aa3e-3b17029dfea5")
+			(uuid "f5c34adf-e917-4713-969d-09223ecb09e9")
 			(effects
 				(font
 					(size 1 1)
@@ -138,7 +138,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e8729195-3123-46ac-b9ef-1886879ce886")
+			(uuid "0c186f25-52a3-473d-b6fa-6265b376c852")
 			(effects
 				(font
 					(size 1 1)
@@ -150,7 +150,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b74c4825-0641-48d4-9e2a-10d0824b2eff")
+			(uuid "0e972d95-48a6-4fd4-be31-8d68dc7d5640")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -162,7 +162,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5c19b92d-b510-4c29-b520-035f6372ebf8")
+			(uuid "e2723896-bfd4-4d94-b674-bf331c10f73b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1191,12 +1191,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "0ddbe4f9-c5e5-4af0-95fb-619b530747fd")
-		(at 70.835 83.48)
+		(at 182 75.5)
 		(property "Reference" "SW3"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "04115885-01be-4357-b4a9-ca55a5a889bf")
+			(uuid "10d4ec9f-7050-4ece-9eb1-20fb549078dd")
 			(effects
 				(font
 					(size 1 1)
@@ -1208,7 +1208,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cedd38ac-e316-421e-9f5c-cbf8ce212aea")
+			(uuid "fd44e050-7cc2-4ac8-9b46-ebc2cc0f7c83")
 			(effects
 				(font
 					(size 1 1)
@@ -1220,7 +1220,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c8fac07f-5063-4e59-a282-f71f4b0d9e58")
+			(uuid "7b3dc11d-f710-41cd-a55c-28f124ddf200")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1232,7 +1232,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "30ea2550-efed-44ca-88a4-584b14aa1f3b")
+			(uuid "8ed1a9b7-a445-4e88-8a3f-df692cd9d844")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2261,12 +2261,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "0e6da600-dfe5-4cfb-8352-1640b001e5b4")
-		(at 128.25625 118.387826)
+		(at 248 79)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D19"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "be78020e-517d-47b9-9379-cab1f0e51cea")
+			(uuid "3e89e518-80ee-489b-9a08-6985a077dd7d")
 			(effects
 				(font
 					(size 1 1)
@@ -2278,7 +2278,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "508eeecf-fd29-43f5-8de8-b1c130180c40")
+			(uuid "1847022f-ec31-4143-b590-c2e00eb552c7")
 			(effects
 				(font
 					(size 1 1)
@@ -2291,7 +2291,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "39385caa-36c2-40bb-866d-cba2c803dcc2")
+			(uuid "94ceeb4f-3d5b-44a9-84bc-bcb7e3e4545e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2304,7 +2304,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "503299b6-8da4-4205-93e4-c6463a3e6ee7")
+			(uuid "024e3002-8100-4dc6-b466-187fcf3f87de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2410,12 +2410,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "154666a4-4c93-4aec-b83d-0b7c0ecb3c4b")
-		(at 128.25625 113.60657)
+		(at 248 45)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D17"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "3622201f-2ac3-484b-9361-e145b2a858e9")
+			(uuid "fb757eae-dcf8-493d-b95b-6bc2834d3152")
 			(effects
 				(font
 					(size 1 1)
@@ -2427,7 +2427,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2f99c44a-d913-442b-a82b-8a092f8b2077")
+			(uuid "618ad7b0-30bd-4ece-9fa1-917b40719e5c")
 			(effects
 				(font
 					(size 1 1)
@@ -2440,7 +2440,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23c0d08c-f46d-4ae4-8dbe-2c28ab62ef4f")
+			(uuid "b009d7c7-ba77-40c4-ae4c-f92425a8ab6f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2453,7 +2453,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "824b50b3-dcf7-4f96-970b-39586d88eb5c")
+			(uuid "2f201561-206a-4eba-bc69-ba27edec6f78")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2559,12 +2559,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "1a3646fe-7755-4f6b-ac40-5402610e5a04")
-		(at 121.903125 111.215942)
+		(at 214 28)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D9"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "7f19a5cc-6cc7-4e90-a611-a2eadb2d2cc3")
+			(uuid "06918051-1412-4c49-84be-3d4f78dec35f")
 			(effects
 				(font
 					(size 1 1)
@@ -2576,7 +2576,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eeec036f-36d3-4e44-a3d7-2772bee7f10f")
+			(uuid "1c5991b9-0d0a-42d3-ba5e-0a05939879e2")
 			(effects
 				(font
 					(size 1 1)
@@ -2589,7 +2589,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a03b9b1-6b7d-4853-a6f8-5ad8342bdcc4")
+			(uuid "3db2157b-9523-4f21-b070-382d5a0ea7db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2602,7 +2602,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1e48a02-8b0a-4b79-8d70-cf5d12237b80")
+			(uuid "71af6002-8cf7-473e-a84e-d9d8874b7530")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2708,12 +2708,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "1d450ed9-8431-45a3-bfaa-83256951d55b")
-		(at 121.903125 108.825314)
+		(at 163 70.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D8"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "3f1af1c0-6579-470c-8a40-6cadc897cb7b")
+			(uuid "a176d624-fec1-4d9b-be3d-2530d29ae3eb")
 			(effects
 				(font
 					(size 1 1)
@@ -2725,7 +2725,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06303bb2-4ab0-44ee-b444-ad58171b80cf")
+			(uuid "b21d7eb4-8905-4434-96e6-d08241389a00")
 			(effects
 				(font
 					(size 1 1)
@@ -2738,7 +2738,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f35d02a2-e1b2-49bf-961d-5b46c148706e")
+			(uuid "bbfc714d-f8d7-4e99-85fa-6d57fcc9cca6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2751,7 +2751,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "454bd81b-88e4-4924-8ffb-96dce7e330a0")
+			(uuid "fdf596b8-0e13-4ebf-a97a-51d0899a02f0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2857,12 +2857,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "245c9f9e-0661-4c2c-b237-6eccc18138c4")
-		(at 121.903125 115.997198)
+		(at 214 62)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D11"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "df1368d4-90ef-4c2b-88d6-832d183ecc9b")
+			(uuid "5a6ff4c4-272a-4ab7-ac5a-d009d62d3c73")
 			(effects
 				(font
 					(size 1 1)
@@ -2874,7 +2874,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "70f22363-4e17-4489-9db0-8fa6ffaca95d")
+			(uuid "085de368-8abb-45a0-b1da-0a16cd3c39e9")
 			(effects
 				(font
 					(size 1 1)
@@ -2887,7 +2887,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40e853cb-15d9-43ed-9119-3f9edbd255b5")
+			(uuid "6592c5fc-ea77-48eb-b05c-b80b0028744a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2900,7 +2900,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d7857a0-053d-4526-90f3-7dbebae0d443")
+			(uuid "7af434fa-dd91-4cd4-83db-cb06719c4932")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3006,12 +3006,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "2509414f-39e3-46eb-bade-0f0d4298940d")
-		(at 121.903125 120.778454)
+		(at 231 36.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D13"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "0bcce16e-5534-4fbd-9c8d-d281a33a505a")
+			(uuid "80c55f05-1fcd-4974-ae29-83e6ab20ce03")
 			(effects
 				(font
 					(size 1 1)
@@ -3023,7 +3023,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7fbf74c7-710f-477e-a91a-b12bf67ff1d5")
+			(uuid "4f7c1388-c711-4a73-961c-ba5fa2a0d343")
 			(effects
 				(font
 					(size 1 1)
@@ -3036,7 +3036,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0da4f0da-297b-479c-af0d-960199135584")
+			(uuid "26e58a8f-0ec6-4e80-bdfa-11e07a1f8966")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3049,7 +3049,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dc873c0e-26a7-4ec0-9af5-14d075c9479f")
+			(uuid "a12659db-8aa9-4961-8525-51b0fa83bd02")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,12 +3155,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "25f25dfd-a245-4feb-890d-6c2b2af78049")
-		(at 104.985 98.83)
+		(at 164 99)
 		(property "Reference" "SW12"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "f6b3d752-eaac-4f32-be8b-a5cae1df0c04")
+			(uuid "0cf71afd-2d99-4ad7-aa64-06acb4fb97ca")
 			(effects
 				(font
 					(size 1 1)
@@ -3172,7 +3172,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08ec1c8e-0421-4bd4-9324-c94e13617302")
+			(uuid "04618bc2-b97a-4a44-ac2d-6eae612835ce")
 			(effects
 				(font
 					(size 1 1)
@@ -3184,7 +3184,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "50950060-7e4a-401c-b257-0cbee8f23c70")
+			(uuid "3ddf1c7c-dd9e-4179-9266-94724adb43ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3196,7 +3196,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae4895bd-7e64-49fe-8f69-a6d87abe35c1")
+			(uuid "01b6c92c-0722-4a62-9fc9-7660d153c257")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4222,114 +4222,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_4.3mm_M4"
-		(layer "F.Cu")
-		(uuid "28153750-1109-441b-9693-b51e5acf51ca")
-		(at 64.835 112.705)
-		(descr "Mounting Hole 4.3mm, M4, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M4")
-		(property "Reference" "J2"
-			(at 0 -5.25 0)
-			(layer "F.SilkS")
-			(uuid "d17c55ea-cbc9-4dc9-b1e8-8fbe3743d558")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01-Connector_Generic"
-			(at 0 5.25 0)
-			(layer "F.Fab")
-			(uuid "b3db8aa2-e9fa-4b1f-ab75-4ff525392226")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "48b98bf1-dca2-40b9-8be6-bf1fd66ef0f2")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "544afae5-5bca-4e21-a730-54baed20f6f6")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/7b254d89-86ac-4ccd-858b-226d3e9cc57b")
-		(sheetname "/")
-		(sheetfile "roba_R.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 4.3 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "ad9cc74a-db72-4865-a367-15732a7bbcc2")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 4.55 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "196ff255-f255-4878-8024-1807fdb8d01e")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "86899ec2-4489-4fc1-b47f-60c9dd73199e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 4.3 4.3)
-			(drill 4.3)
-			(layers "*.Cu" "*.Mask")
-			(uuid "c1206f22-4cf3-4936-9205-a50562e0ab23")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "34e2b79e-e95e-48e3-aac9-6079cd2affe6")
-		(at 70.835 52.78)
+		(at 182 41.5)
 		(property "Reference" "SW1"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b5a7af0d-4de9-4cfb-ae59-73eecb4b76ff")
+			(uuid "33d3d875-54c3-4f6c-a3a4-f4684b6bfc95")
 			(effects
 				(font
 					(size 1 1)
@@ -4341,7 +4242,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc76e7b4-d19e-49b6-b7ef-9fe6b0d49460")
+			(uuid "f343ba04-0cc9-4f1e-a7a1-a7634d0954dd")
 			(effects
 				(font
 					(size 1 1)
@@ -4353,7 +4254,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "417d98f6-260a-420c-816d-c8f609099e8f")
+			(uuid "4d29b7bc-aa51-4cab-be20-99fc78bca115")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4365,7 +4266,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c8d6fc8d-7807-402f-801f-2a19e5938242")
+			(uuid "745d2446-bc28-426b-84a0-694dbd4b851a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5394,12 +5295,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "4abc07ec-e245-4929-956a-5e72889a3c9c")
-		(at 128.25625 115.997198)
+		(at 248 62)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D18"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "36e076d5-3d17-497c-bc7e-f1ceb1542f30")
+			(uuid "7ab813b3-3c6d-401f-a466-5dead7c4480e")
 			(effects
 				(font
 					(size 1 1)
@@ -5411,7 +5312,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ffc906b-2370-4ee4-bc31-ccb42f621cf3")
+			(uuid "18c7ebf5-e162-4afa-aec9-45c0b58ffe0e")
 			(effects
 				(font
 					(size 1 1)
@@ -5424,7 +5325,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5fc801e4-4779-447f-84c3-1b644a77f735")
+			(uuid "ec74d600-cf93-4e7c-a87b-346c419f15de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5437,7 +5338,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f700b01d-fdd2-42c0-befc-10e24b8746ea")
+			(uuid "ef31ffa6-54b2-4ad4-880b-caf2e110a31e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5540,113 +5441,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_4.3mm_M4"
-		(layer "F.Cu")
-		(uuid "4e70609a-97f6-4a32-aa02-f8417fb4bf10")
-		(at 85.135 122.855)
-		(descr "Mounting Hole 4.3mm, M4, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M4")
-		(property "Reference" "J7"
-			(at 0 -5.25 0)
-			(layer "F.SilkS")
-			(uuid "693402eb-6a17-46ad-8f1c-64b00400cdd0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01-Connector_Generic"
-			(at 0 5.25 0)
-			(layer "F.Fab")
-			(uuid "5330fcfc-193d-4ea5-86f9-aba15d58bb1e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6c9e075a-9d7d-44fc-9e86-5c17ad7dca7b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1f7410d6-c69d-4f72-9299-0d52442ced86")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/4fdc3ddf-7e9c-4776-afa8-02656838856f")
-		(sheetname "/")
-		(sheetfile "roba_R.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 4.3 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "a2e14a85-2612-4b66-a189-e384b53f7b68")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 4.55 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "a4a00af9-f812-4262-9307-bdbf56ba47dd")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "ba0f2fc1-4701-4164-8f79-f482ccbc66ac")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 4.3 4.3)
-			(drill 4.3)
-			(layers "*.Cu" "*.Mask")
-			(uuid "3aebdbd1-47a2-4366-a842-0a04b74a35a2")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "roBa:JST_S2B-PH-SM4-TB"
 		(layer "F.Cu")
 		(uuid "4e959e44-25ac-4ed5-9f79-f97703f400ba")
-		(at 138.9135 116.1935)
+		(at 160 40)
 		(property "Reference" "BT1"
 			(at -1.32682 -8.89729 0)
 			(layer "F.SilkS")
-			(uuid "1e864988-cab1-49d9-9d0c-a70da35acacb")
+			(uuid "f787703f-c981-4fe6-8960-448bc1b72cce")
 			(effects
 				(font
 					(size 1.001386 1.001386)
@@ -5657,7 +5459,7 @@
 		(property "Value" "BATT"
 			(at 6.2967 3.11582 0)
 			(layer "F.Fab")
-			(uuid "d939364d-36c3-4d01-9c64-587acc1633ed")
+			(uuid "53c076cc-ad52-4110-9b11-913748376a53")
 			(effects
 				(font
 					(size 1.000268 1.000268)
@@ -5670,7 +5472,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce092a3c-f3a4-47f8-acbd-4bfa6c8e8d29")
+			(uuid "0540c079-4ac1-4ad4-8c8a-16bebb4ac84b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5683,7 +5485,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b324153-1b4b-40d8-91ac-cde3a3324309")
+			(uuid "0b4ca7ff-86b9-47e1-a153-d4793df46089")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5876,12 +5678,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "63a085d6-c612-40be-84d2-33e529ac195b")
-		(at 87.91 68.13)
+		(at 199 54.25)
 		(property "Reference" "SW6"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "63187ee8-044e-48a9-b4aa-d54ae8e36291")
+			(uuid "10263289-8466-4a52-a4d2-7062893eade0")
 			(effects
 				(font
 					(size 1 1)
@@ -5893,7 +5695,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40b9cff7-9f52-4095-9968-9aa6f5fd179e")
+			(uuid "e8df7430-fa6d-44db-883e-4cd22508b6f9")
 			(effects
 				(font
 					(size 1 1)
@@ -5905,7 +5707,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "39d63b26-41f5-45c3-b883-e6541014f679")
+			(uuid "9c84951f-0380-43d7-8519-0662cb2ef762")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5917,7 +5719,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ad9b706a-3e3d-4c23-9336-1a82b1385abd")
+			(uuid "4cb7bcb8-2b7a-4572-b3fd-9c2ae58651f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6946,12 +6748,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "6f635cd4-344f-4552-a5f7-20ba04e6b635")
-		(at 128.25625 111.215942)
+		(at 179 92)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D16"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "444fef20-93f2-4c06-ae61-f7847f927f1a")
+			(uuid "38d5cc4b-1802-419c-803c-712ef2cfb7bd")
 			(effects
 				(font
 					(size 1 1)
@@ -6963,7 +6765,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4ad01ffc-4978-4c94-a8a1-4661ccdd557f")
+			(uuid "96add165-c50f-48d9-8867-97151493deaa")
 			(effects
 				(font
 					(size 1 1)
@@ -6976,7 +6778,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bcfb3618-fb25-49bd-8455-eb4d02eb9928")
+			(uuid "7bf00c07-ec2e-43a7-975c-034bbb082426")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6989,7 +6791,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "96f47280-05aa-45bb-9d77-446baf97640b")
+			(uuid "badfc777-4e66-49b1-9944-81430d0e5a84")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7095,12 +6897,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "7f1c60c9-a4b9-4a3c-be4e-378d16fc4a8d")
-		(at 104.985 68.13)
+		(at 216 50)
 		(property "Reference" "SW10"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "f84590c5-3fef-467f-af71-f76dc32dd57c")
+			(uuid "ca5e58cb-5176-4126-8afb-8b11d2a30349")
 			(effects
 				(font
 					(size 1 1)
@@ -7112,7 +6914,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e5d3ef8-7c37-4666-ac5b-7e90f1f70069")
+			(uuid "22714fde-060b-49a8-81c8-161400f08a44")
 			(effects
 				(font
 					(size 1 1)
@@ -7124,7 +6926,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7b5afd41-1f79-4027-94c2-7baa900687ab")
+			(uuid "0b269083-824d-4431-9312-84e9ac43290e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7136,7 +6938,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "714a8b4f-93fb-4c77-8432-7b40ace5f6b2")
+			(uuid "c113054e-d630-4ea3-afbb-1f50fe726d44")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8165,12 +7967,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "84363dd8-9425-4158-9ce5-f7b42801d36d")
-		(at 128.25625 120.778454)
+		(at 248 96)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D20"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "a7113b6f-19cf-49b5-a22f-50b909c76dd8")
+			(uuid "ea33b19c-645e-40fe-805e-e48c663bfd64")
 			(effects
 				(font
 					(size 1 1)
@@ -8182,7 +7984,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f020477f-3707-4e31-a09c-8eeb310883d4")
+			(uuid "5fa0a40c-be61-4314-9b3e-7b26aa834911")
 			(effects
 				(font
 					(size 1 1)
@@ -8195,7 +7997,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5d2bb214-a11f-418d-90a8-ce4a08fc61a8")
+			(uuid "deb650c2-5700-47fb-90d5-80eabc3b926f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8208,7 +8010,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ddc2101-862d-40f5-ae68-c137bfecbdbf")
+			(uuid "41733e5e-adb6-4dd2-bca4-deaad550729a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8314,12 +8116,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "886d66e8-f41a-4312-aa1a-6f9d7d95f287")
-		(at 121.903125 113.60657)
+		(at 214 45)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D10"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "1b70b40d-8256-4295-a6b4-8d66bb20c70f")
+			(uuid "08b7cc83-502f-4568-ba98-5504a2664a56")
 			(effects
 				(font
 					(size 1 1)
@@ -8331,7 +8133,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d5bbc5ee-2c36-4328-90ac-8cff3ca17c1e")
+			(uuid "da367bb7-cd6e-4328-beb5-efaeccb14519")
 			(effects
 				(font
 					(size 1 1)
@@ -8344,7 +8146,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c815ec1d-fedb-41bd-9526-e845fc65d712")
+			(uuid "5ebbdef2-692f-421d-94da-5e27bffdd327")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8357,7 +8159,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bad4060c-b5ba-4a9c-a323-ff4fa3be647e")
+			(uuid "dddd7bfc-f24f-4e12-a34c-da056a50a95b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8463,12 +8265,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "886f5759-1499-4a3b-a830-0d8d6a31a44e")
-		(at 70.835 98.83)
+		(at 165 58.5)
 		(property "Reference" "SW4"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "630db0b5-46b7-4371-a799-a21978ecc44e")
+			(uuid "abded2ec-20f1-4d6a-a95b-1d7c4c568d29")
 			(effects
 				(font
 					(size 1 1)
@@ -8480,7 +8282,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d00ca58a-bcd0-4bbe-940c-f338c152e160")
+			(uuid "3b61849b-cc46-4a0a-b3e5-b297ec0a6e2e")
 			(effects
 				(font
 					(size 1 1)
@@ -8492,7 +8294,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ad5de4b-907c-448f-9774-57aaaaddc78b")
+			(uuid "cbade92d-0c73-4720-a6e6-5a20fca44cb9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8504,7 +8306,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4ffd5f94-e2da-40d1-bd61-4dd117513629")
+			(uuid "365cc68a-7144-4ce7-bff7-147125ee62d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9533,12 +9335,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "8e3e6cc9-13b3-425c-b90c-3bfe5958341f")
-		(at 122.06 98.83)
+		(at 181 97)
 		(property "Reference" "SW16"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "1d771ff3-7011-4de2-a5d2-f8b2bb00f73e")
+			(uuid "4a56192d-a54a-465c-a840-7955bd1deb3a")
 			(effects
 				(font
 					(size 1 1)
@@ -9550,7 +9352,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "61ed106a-5244-4418-9d12-07161e521441")
+			(uuid "4e9c4f9f-1089-4c33-9582-8f6a7269482e")
 			(effects
 				(font
 					(size 1 1)
@@ -9562,7 +9364,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "426b7c62-7b6b-41d0-814e-c26472efa609")
+			(uuid "cfa0d62a-79e2-42c4-8bde-f6ab4cdf8008")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9574,7 +9376,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "789950d9-2f78-42a9-9309-db72adf1151c")
+			(uuid "707e5d6a-cf6c-4fc3-abd9-3f7964900f23")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10603,12 +10405,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "8f8c24f0-c8bb-49ab-b2e8-f773d7b38b06")
-		(at 70.835 68.13)
+		(at 182 58.5)
 		(property "Reference" "SW2"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e9fdcf72-08d7-4ea0-8e50-05de3a64b4dd")
+			(uuid "0b37da3e-2522-452e-9f6f-688f100d2e1a")
 			(effects
 				(font
 					(size 1 1)
@@ -10620,7 +10422,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f3c4984e-b444-490d-9976-33dfa4b74560")
+			(uuid "b41f871b-824b-40af-896d-8c97d70ccbae")
 			(effects
 				(font
 					(size 1 1)
@@ -10632,7 +10434,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b674ecb6-251f-41d2-b98a-68c421e571b0")
+			(uuid "bc37ca0c-721b-4a28-b4d1-274592a03610")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10644,7 +10446,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3011991d-680f-428c-b816-cc78da8d9a85")
+			(uuid "835591ee-b3ba-4e06-bc2c-6b87573466e0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11673,12 +11475,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "909f74df-767d-41d0-bcb7-619266860fbd")
-		(at 128.25625 108.825314)
+		(at 231 70.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D15"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "ebbceacb-e8aa-4d9d-ae2d-61755b55515d")
+			(uuid "a03be6b0-8ec8-4b7b-9572-717a41b1b88f")
 			(effects
 				(font
 					(size 1 1)
@@ -11690,7 +11492,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fc7ceed3-66e4-45b6-9c64-0abe847573f0")
+			(uuid "87ebe2a2-0a4a-478d-98d3-abd3818e5b74")
 			(effects
 				(font
 					(size 1 1)
@@ -11703,7 +11505,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b35330f9-286d-492c-aa41-b85b33db14be")
+			(uuid "25acb840-70ab-42fe-be44-e7e384957db2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11716,7 +11518,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "efb236fc-f1e2-47c0-8c76-fa3f823b8b7f")
+			(uuid "566e996e-2cc5-4a95-a336-762bf1ec12b4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11822,12 +11624,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "98ce4fb7-1e72-4b86-bf16-b92a331e4a20")
-		(at 87.91 52.78)
+		(at 199 37.25)
 		(property "Reference" "SW5"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "62fb6ada-0155-4dcb-9951-98b4553ecc9e")
+			(uuid "fe823609-cfe4-46be-9dbc-b36d13cefe97")
 			(effects
 				(font
 					(size 1 1)
@@ -11839,7 +11641,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4f29fdd4-26ee-4638-a99a-2fe34cb35379")
+			(uuid "6129fc0e-f355-49fb-ab34-a84fed4c9e81")
 			(effects
 				(font
 					(size 1 1)
@@ -11851,7 +11653,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9fcaf4fa-c62f-4d62-9440-a86d40fe81af")
+			(uuid "eff20a0c-0264-4717-bdb3-cc26ae5d614c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11863,7 +11665,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f96fa15d-4462-45d5-8678-81ed83e57706")
+			(uuid "35e977ef-18be-4c21-bea8-b4d315e94dbc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12892,12 +12694,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "9c774464-7b61-466d-9003-d4b7c134caed")
-		(at 115.55 111.215942)
+		(at 180 53.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D2"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "a16f0cd4-0661-4311-abbe-3916b8c49068")
+			(uuid "482bd8f2-e551-473e-8264-98b303438ff1")
 			(effects
 				(font
 					(size 1 1)
@@ -12909,7 +12711,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9986a057-20fb-4429-9101-5b36af49ee2b")
+			(uuid "47d247ec-2961-479c-944d-0b000f25df60")
 			(effects
 				(font
 					(size 1 1)
@@ -12922,7 +12724,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04841d76-a67f-4b5b-b6a9-ee559bb91dcd")
+			(uuid "9bfd1247-284b-4eaa-a503-a3c7652c2f5c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12935,7 +12737,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "11429c50-3bbb-4c35-8546-3e7dbe0159c8")
+			(uuid "d7ce6399-6c01-4b58-8d5a-f042b17aaf4c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13041,12 +12843,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "9d818860-41f7-4171-b859-b4e29ecf1f4c")
-		(at 115.55 108.825314)
+		(at 180 36.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D1"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "c9bd9f64-480a-43ea-a849-9e012e988769")
+			(uuid "4a3331b4-95a9-4ac7-b9d4-791e57ef5571")
 			(effects
 				(font
 					(size 1 1)
@@ -13058,7 +12860,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "79eadbc3-f206-4fd3-937f-4b5cd3513aa6")
+			(uuid "489f87ad-528c-4882-a93d-8e3f2dc84caf")
 			(effects
 				(font
 					(size 1 1)
@@ -13071,7 +12873,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3a38504-6cfa-437e-86a2-01ce816d81bc")
+			(uuid "42f6523a-6da2-46bf-b439-4cc5864f8b67")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13084,7 +12886,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4835ee1f-9b76-4a2f-956b-e6f05ed43001")
+			(uuid "6898d67d-bf8d-46f9-afb1-61cd3b2f1a5e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13190,12 +12992,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "9f40570b-d01d-45d2-85af-e344908c908c")
-		(at 121.903125 118.387826)
+		(at 162 94)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D12"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "9d80f851-a773-4aff-8db9-cb0f37076d6e")
+			(uuid "88f15937-864b-4edc-9718-890628852d41")
 			(effects
 				(font
 					(size 1 1)
@@ -13207,7 +13009,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0877f09d-fb6b-4e2d-a34b-0cb8323e023e")
+			(uuid "d816ac8d-886e-473b-aebe-1b68ee48d089")
 			(effects
 				(font
 					(size 1 1)
@@ -13220,7 +13022,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "310f945e-0bb9-4bc4-9c99-6c4368349bd9")
+			(uuid "bc567499-20dd-40ca-8f50-81538778fbbe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13233,7 +13035,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9f844fef-691c-4276-80ac-e48e093a374a")
+			(uuid "b7a50ed8-75dc-46c6-be7c-814410d7830c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13339,12 +13141,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "a53e099f-2b26-405c-931f-0ae465ff100e")
-		(at 87.91 83.48)
+		(at 199 71.25)
 		(property "Reference" "SW7"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "afa872a3-7979-4da5-80b7-9e486d0ec5f6")
+			(uuid "5b7c1821-ac2a-49fd-a599-b663e6909301")
 			(effects
 				(font
 					(size 1 1)
@@ -13356,7 +13158,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b3be84ca-eeb8-4ba1-86a2-833dc7c9a02e")
+			(uuid "9728582d-8adc-4804-8ca0-c52333742ad1")
 			(effects
 				(font
 					(size 1 1)
@@ -13368,7 +13170,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "90c5a05a-35f3-4ed6-8c6a-f3d71c53e667")
+			(uuid "cd60811e-496c-4fd4-9614-8b4a59898441")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13380,7 +13182,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8441cd48-c956-4353-a887-dba9edf43383")
+			(uuid "71ba592f-c843-4cff-8e79-02664b40d73d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14409,12 +14211,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "a7031f79-2404-4291-9eff-6f86b1c35c8d")
-		(at 121.903125 123.169082)
+		(at 231 53.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D14"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "afaec602-2672-4a39-b790-c687a8ed8787")
+			(uuid "7c935c8f-981b-45d0-b3fa-56605fb4e9ef")
 			(effects
 				(font
 					(size 1 1)
@@ -14426,7 +14228,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80e8d940-88ad-4309-8a93-5f873c9a1d81")
+			(uuid "ff116512-186e-476b-8d13-29f4f86ffbf2")
 			(effects
 				(font
 					(size 1 1)
@@ -14439,7 +14241,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f589137-b682-49b4-b8e4-de8aa03ffc1c")
+			(uuid "a6d9a231-b4b4-4092-8686-f5d25ea331cf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14452,7 +14254,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6c777367-c93a-4b63-bafc-2456119c441b")
+			(uuid "caaa6015-b19b-4fac-979b-c4dcf8651901")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14558,12 +14360,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "a9ded0a5-c983-4064-8991-a6bbedd295cb")
-		(at 115.55 123.169082)
+		(at 197 66.25)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D7"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "2165102e-98f8-4dbe-a70a-60ed360a9266")
+			(uuid "9798c232-919b-46d0-8740-ed19b9ff4ea7")
 			(effects
 				(font
 					(size 1 1)
@@ -14575,7 +14377,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "14df0a20-7cb6-4074-a2ef-59f5951b16a4")
+			(uuid "f3a02a32-b97f-4eb9-86a7-9f22f1241656")
 			(effects
 				(font
 					(size 1 1)
@@ -14588,7 +14390,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13d64f63-0443-4749-83bc-736350f5fb55")
+			(uuid "12b24a77-d5e9-4c60-bb82-a1cff0a9906b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14601,7 +14403,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "db0c9e7d-6310-4ec0-ad19-1382e8d89d1b")
+			(uuid "363417dd-b402-4da9-896e-f00a693c857f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14704,114 +14506,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_4.3mm_M4"
-		(layer "F.Cu")
-		(uuid "ade350aa-22b5-4946-ad22-5eb30a62bdc4")
-		(at 85.135 112.705)
-		(descr "Mounting Hole 4.3mm, M4, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M4")
-		(property "Reference" "J6"
-			(at 0 -5.25 0)
-			(layer "F.SilkS")
-			(uuid "abbaaaa1-d2ef-4704-9f54-d0aab0cfc7dc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01-Connector_Generic"
-			(at 0 5.25 0)
-			(layer "F.Fab")
-			(uuid "eac9d107-8457-4ad6-a18d-ce4c22c378a5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4af484ce-34e9-4f45-876e-974f6338c6eb")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6020749c-8e98-47c8-ba92-98a12ec4707a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/ca0a7e37-a412-414b-85ec-d97e281e44c5")
-		(sheetname "/")
-		(sheetfile "roba_R.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 4.3 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "7aa637b5-59bb-4d9b-b877-31cafb3b1829")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 4.55 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "e52cb720-bc18-4e71-90f9-2f300e6dca5f")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "4d08f7af-eb45-4971-b002-e24ab4980e0c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 4.3 4.3)
-			(drill 4.3)
-			(layers "*.Cu" "*.Mask")
-			(uuid "f4774126-30ef-47d4-9ee4-9a5bbae4fde5")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "b689ef83-37ce-4441-b8b7-09543729a04b")
-		(at 122.06 68.13)
+		(at 233 58.5)
 		(property "Reference" "SW14"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "74c275a0-7630-4ce3-a847-a34a3f00a501")
+			(uuid "f64220d5-de71-4477-9e08-fda25cf2db52")
 			(effects
 				(font
 					(size 1 1)
@@ -14823,7 +14526,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "77704ac8-af38-4c25-a454-4ed7fe5abfef")
+			(uuid "e411871a-76f8-400b-a1c0-f3b1a90715e7")
 			(effects
 				(font
 					(size 1 1)
@@ -14835,7 +14538,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "626df6a9-1cb7-426c-9278-c51ed5a28d43")
+			(uuid "75d99358-77a7-44a3-99c0-778659c34cb7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14847,7 +14550,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13160c68-1fc5-40cb-a19d-85cbce6cec8c")
+			(uuid "45dfe256-94eb-4573-b9e9-9948ae8778c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15873,114 +15576,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_4.3mm_M4"
-		(layer "F.Cu")
-		(uuid "b803ac6c-d071-4c31-9d18-49211a82a9c2")
-		(at 74.985 122.855)
-		(descr "Mounting Hole 4.3mm, M4, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M4")
-		(property "Reference" "J5"
-			(at 0 -5.25 0)
-			(layer "F.SilkS")
-			(uuid "8c7a8b78-d0ca-4dbf-bcaa-2a434fef6ba0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01-Connector_Generic"
-			(at 0 5.25 0)
-			(layer "F.Fab")
-			(uuid "f341ed09-1a90-4e86-b8a4-cd74acec5bf1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1011586d-238c-4f67-ac7f-b3da3c9c0e30")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a7489674-62ae-4ad3-b37f-3e99dfecfa9f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/55499f1f-422c-4a56-a04f-59ef63be3068")
-		(sheetname "/")
-		(sheetfile "roba_R.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 4.3 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "74a1f44e-a54d-46d9-ac22-eb112e3e7e2f")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 4.55 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "01f38499-0826-40b3-8d98-d3fd1ea54ae1")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "45d676aa-1fc6-47e1-a931-6b3fd3cfdf01")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 4.3 4.3)
-			(drill 4.3)
-			(layers "*.Cu" "*.Mask")
-			(uuid "a39fdf50-53a4-481d-9ac5-3eed3562f2e4")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "c073ba65-aca4-449c-afa8-7fdcd985be5a")
-		(at 139.135 83.48)
+		(at 250 84)
 		(property "Reference" "SW19"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "8a1f7cd4-5484-470c-9fa4-06a24c9b8f8d")
+			(uuid "e9e6895a-35cc-4c18-be86-c14dd05ed4f3")
 			(effects
 				(font
 					(size 1 1)
@@ -15992,7 +15596,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a0b7119-d39b-4bec-8982-2115bb0362b4")
+			(uuid "23ce5097-eac2-4112-87e0-0fa76639051c")
 			(effects
 				(font
 					(size 1 1)
@@ -16004,7 +15608,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "782efe84-5a0a-404c-b263-89f6aefdab30")
+			(uuid "3c6acf21-af13-458c-a159-7fc9f27b09fa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16016,7 +15620,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40491d03-d529-4a2b-a6cc-9fbb6660609b")
+			(uuid "979b05ce-4ac6-4da8-96dd-740927dfda44")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17042,114 +16646,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_4.3mm_M4"
-		(layer "F.Cu")
-		(uuid "c9cae68d-4d32-4321-a097-61d3aab42b1d")
-		(at 74.985 112.705)
-		(descr "Mounting Hole 4.3mm, M4, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M4")
-		(property "Reference" "J4"
-			(at 0 -5.25 0)
-			(layer "F.SilkS")
-			(uuid "0ce2aed3-7515-4712-97c8-4671c59d42e7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01-Connector_Generic"
-			(at 0 5.25 0)
-			(layer "F.Fab")
-			(uuid "efb142cc-91c6-4b5d-9d32-29d8057ac151")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "df878089-8126-46b0-b430-dbf765c562e4")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "123bfb79-2ae2-49ef-9e53-1c72bb282c6a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/f7c0c0bb-ab4d-44c2-a8ab-ab2383d78cc5")
-		(sheetname "/")
-		(sheetfile "roba_R.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 4.3 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "ac99a9b5-4146-4cee-a361-985262b14a8e")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 4.55 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "b13f2b47-6615-4cad-b226-ea823fc29fd2")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "c6bb5ea7-5614-42a5-89d2-8d8f83a6ab17")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 4.3 4.3)
-			(drill 4.3)
-			(layers "*.Cu" "*.Mask")
-			(uuid "ebfdcb8e-048a-4050-8370-454f02828655")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "cb9e9878-fe2d-492d-bcc8-57eeb2423598")
-		(at 115.55 113.60657)
+		(at 180 70.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D3"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "664469d9-6bad-455d-886e-501cade9708e")
+			(uuid "90d30f24-e2fa-4d56-b41d-1aa9eb789f04")
 			(effects
 				(font
 					(size 1 1)
@@ -17161,7 +16666,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f64c344-68a5-4e5f-8598-c450a13a5ae5")
+			(uuid "ff79778d-8d56-4c06-99f0-1b1299ed098e")
 			(effects
 				(font
 					(size 1 1)
@@ -17174,7 +16679,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f10c6a9c-e3fd-445c-8790-2eaaebb321ee")
+			(uuid "d5bab9d5-d1d6-48c8-a115-8cb6630638ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17187,7 +16692,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7917464c-4287-46a3-8c1c-84372519af1b")
+			(uuid "c6a01949-3507-471a-9478-4b019cea2f70")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17293,12 +16798,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "ceaa9e04-bcfb-4955-be30-2eb064f0bbf7")
-		(at 115.55 120.778454)
+		(at 197 49.25)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D6"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "b3d3dcf4-eada-4307-b19e-fb212afde3b8")
+			(uuid "72f1705f-94c7-4fa2-ad65-0ccdbfee1d58")
 			(effects
 				(font
 					(size 1 1)
@@ -17310,7 +16815,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4893e8c4-8073-4c3f-9c14-c0d5d8438716")
+			(uuid "64ceb8cb-1990-4248-bf75-e70858ba9613")
 			(effects
 				(font
 					(size 1 1)
@@ -17323,7 +16828,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1476d0ed-e4d2-4a4d-a23f-20c52625f7db")
+			(uuid "621e6a98-a2a6-408f-ad8d-f82accd56753")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17336,7 +16841,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b6a9a2c3-6e61-496a-b99e-da8544fbf3eb")
+			(uuid "f2041d74-cd26-4702-ba01-ee0104363e7b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17442,12 +16947,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "d1693315-1ce0-42a4-8fa4-d961f9e8912b")
-		(at 122.06 52.78)
+		(at 233 41.5)
 		(property "Reference" "SW13"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e74746b4-6b18-4d76-b701-8c2b16b2e29d")
+			(uuid "d72c215e-612f-45b9-ad6c-ef33f612d6d6")
 			(effects
 				(font
 					(size 1 1)
@@ -17459,7 +16964,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ac3791bb-9fbc-489e-a904-ee48ab4b7a2a")
+			(uuid "e83ce10e-1386-4fe7-b403-ac276efbca68")
 			(effects
 				(font
 					(size 1 1)
@@ -17471,7 +16976,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "744bb811-2746-4ae9-81d8-b6db088ec984")
+			(uuid "97dd5ef2-3565-423e-956b-a47539bae8dc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17483,7 +16988,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5c3e624-0fcf-42cb-b4cf-8b1024d81270")
+			(uuid "219affad-fe7b-479e-9008-a366bd9e991c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18512,12 +18017,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "d57a034c-9159-44bb-bc3c-4df3b1a39eb4")
-		(at 139.135 52.78)
+		(at 250 50)
 		(property "Reference" "SW17"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9e66354d-90cb-46af-b510-56e82123664e")
+			(uuid "9fc12bbf-fbb6-4ab1-a759-6af463d23043")
 			(effects
 				(font
 					(size 1 1)
@@ -18529,7 +18034,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "136139b2-9a0e-4252-93b7-bd5e8e4e673e")
+			(uuid "46126c23-e5c8-435e-bc09-53ec6793cfcb")
 			(effects
 				(font
 					(size 1 1)
@@ -18541,7 +18046,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "298974ce-5e66-4295-b0e1-b7f9a831d161")
+			(uuid "f47bfe46-2e78-4d85-a88c-8d4b76f47006")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18553,7 +18058,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9547c584-b896-4039-9a1a-f1d265b7137e")
+			(uuid "1332812d-b5d0-4f58-851c-1185bef41956")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19582,12 +19087,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "db89c4b2-254f-4896-96bb-12d697759396")
-		(at 115.55 115.997198)
+		(at 163 53.5)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D4"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "417fce7f-ce58-4095-abc2-e7a42f11bdd0")
+			(uuid "e05d8a94-d8e2-4324-aa99-23c44df143da")
 			(effects
 				(font
 					(size 1 1)
@@ -19599,7 +19104,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6edcbf67-408c-4a3a-a9bf-cda5aa917f97")
+			(uuid "230a1da6-0a95-4716-800a-7321becd24bd")
 			(effects
 				(font
 					(size 1 1)
@@ -19612,7 +19117,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "49633b58-369d-400b-9077-fdab5d716240")
+			(uuid "c46127ab-6dc4-4a42-a02d-fa9678616409")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19625,7 +19130,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d980a8a-8368-4b5a-9ae8-ee8e6fb580cc")
+			(uuid "da883a59-6f6b-4c5d-a264-ea27c8fc0485")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19731,12 +19236,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "dc1f762d-01d9-4587-b59e-cbaef5afeab1")
-		(at 139.135 68.13)
+		(at 250 67)
 		(property "Reference" "SW18"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e7bba1d9-9b6f-41ca-8e54-abaab6691fa3")
+			(uuid "3bd75425-24bf-46c1-9a03-b04a8616c364")
 			(effects
 				(font
 					(size 1 1)
@@ -19748,7 +19253,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c226662-d4aa-437b-8f0b-cbf0e4982e81")
+			(uuid "36757b09-e162-4107-8d83-4d36f9dc09b1")
 			(effects
 				(font
 					(size 1 1)
@@ -19760,7 +19265,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4f178477-5998-480d-abb6-611f09fe3347")
+			(uuid "b2ed0d88-7029-4127-a8f6-60b71a53fe17")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19772,7 +19277,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a86ccc17-7dd1-4d62-bb41-55e89482e8a4")
+			(uuid "0835da8a-4e31-45d8-96b5-f798a4c296de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20801,13 +20306,13 @@
 	(footprint "roBa:XIAO_nRF52840_wBAT_wNFC_1"
 		(layer "F.Cu")
 		(uuid "e2bcf15d-7b22-4c73-b6f8-c34067dfcbe2")
-		(at 100.205 108.38)
+		(at 162 20)
 		(descr "https://gitlab.com/lpgalaxy/revxlp(xiao-ble-smd)")
 		(property "Reference" "U1"
 			(at 0 6.9 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e786cbbc-d123-49b6-bfa7-fb0db8a08e1f")
+			(uuid "0004dca7-bc58-4493-91ea-54a268b472eb")
 			(effects
 				(font
 					(size 1 1)
@@ -20819,7 +20324,7 @@
 			(at 0 14 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "63d80fcd-6acc-4bb0-835f-e4cd1a677ae4")
+			(uuid "ac9454aa-fd89-4b81-b764-cd083db47f0c")
 			(effects
 				(font
 					(size 1 1)
@@ -20832,7 +20337,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80d19f8a-7013-441e-b35f-ddd39ad22ef7")
+			(uuid "42b13af1-df3b-4d47-b4b0-e2f4f347cc94")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20845,7 +20350,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c41092be-f8d1-4d15-81f5-ae118f1cd33c")
+			(uuid "b118c058-1755-439d-837b-ed910387e266")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21333,12 +20838,12 @@
 	(footprint "roBa:TGSW_MSK-12D19"
 		(layer "F.Cu")
 		(uuid "e4596dc2-aa0b-43c8-9d48-f8b9ae17f086")
-		(at 137.5 119.75)
+		(at 150 80 90)
 		(descr "https://github.com/Salicylic-acid3/KiCAD_FootPrint (TGSW_MSK-12D19)")
 		(property "Reference" "SW21"
-			(at 0 -0.3 0)
+			(at 0 -0.3 90)
 			(layer "F.Fab")
-			(uuid "77bb211f-3ea5-4748-9adb-b4c1417d7416")
+			(uuid "71229593-6e05-4d5a-a60a-1638973ae38c")
 			(effects
 				(font
 					(size 1 1)
@@ -21347,10 +20852,10 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 0 5.2 0)
+			(at 0 5.2 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f423ec47-389b-4745-9dc3-44539348d256")
+			(uuid "94f42058-cc87-4da0-b037-bd644202fff6")
 			(effects
 				(font
 					(size 1 1)
@@ -21359,11 +20864,11 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e35cd0a8-de46-4589-bed9-33abd142ee9c")
+			(uuid "efffe730-99c2-4f75-a0ea-6732b9a24c79")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21372,11 +20877,11 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "65b7ba96-e17a-441e-897c-f5039f8a3238")
+			(uuid "8756845a-fbe7-4000-b1c8-783c8ebb6843")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21389,26 +20894,6 @@
 		(sheetfile "roba_R.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -4.5 0.2)
-			(end 4.5 0.2)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "a27c579f-f6fe-4150-b7f6-bb4abcde64fb")
-		)
-		(fp_line
-			(start -4.5 3.7)
-			(end -4.5 0.2)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "cb56e64a-f966-4061-9515-a9d1998b2c8e")
-		)
-		(fp_line
 			(start 4.5 0.2)
 			(end 4.5 3.7)
 			(stroke
@@ -21417,6 +20902,16 @@
 			)
 			(layer "Dwgs.User")
 			(uuid "eb168c3c-45d6-4d15-bedd-a1542af0dde0")
+		)
+		(fp_line
+			(start -4.5 0.2)
+			(end 4.5 0.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "a27c579f-f6fe-4150-b7f6-bb4abcde64fb")
 		)
 		(fp_line
 			(start 4.5 3.7)
@@ -21428,8 +20923,18 @@
 			(layer "Dwgs.User")
 			(uuid "14b695fa-4388-4cad-9714-491d5d2167d1")
 		)
+		(fp_line
+			(start -4.5 3.7)
+			(end -4.5 0.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "cb56e64a-f966-4061-9515-a9d1998b2c8e")
+		)
 		(fp_text user "MSK-12D19"
-			(at 0 1.2 0)
+			(at 0 1.2 90)
 			(layer "Dwgs.User")
 			(uuid "f33c23b9-3574-447f-a780-0038245a8d0b")
 			(effects
@@ -21441,7 +20946,7 @@
 			)
 		)
 		(pad "1" thru_hole oval
-			(at -2.5 2.75)
+			(at -2.5 2.75 90)
 			(size 1.3 1)
 			(drill oval 0.8 0.5)
 			(layers "*.Cu" "*.Mask")
@@ -21453,7 +20958,7 @@
 			(uuid "bc5add98-76b4-4b1e-a2ec-6597b08f8163")
 		)
 		(pad "2" thru_hole oval
-			(at 0 2.75)
+			(at 0 2.75 90)
 			(size 1.3 1)
 			(drill oval 0.8 0.5)
 			(layers "*.Cu" "*.Mask")
@@ -21465,7 +20970,7 @@
 			(uuid "37a9a23b-cf74-4837-b31e-553be88a97fd")
 		)
 		(pad "3" thru_hole oval
-			(at 2.5 2.75)
+			(at 2.5 2.75 90)
 			(size 1.3 1)
 			(drill oval 0.8 0.5)
 			(layers "*.Cu" "*.Mask")
@@ -21492,12 +20997,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "e84900ae-8a63-4d18-81cc-b6cd6fee5be6")
-		(at 122.06 83.48)
+		(at 233 75.5)
 		(property "Reference" "SW15"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5b5b89b3-530c-4102-8c53-276be7ccc438")
+			(uuid "223d06d8-87da-4413-a90a-e36cf1a81283")
 			(effects
 				(font
 					(size 1 1)
@@ -21509,7 +21014,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b49e81bd-35df-46b6-860f-29b83dd6049b")
+			(uuid "b3f89c18-b1ac-41a3-ac3d-1a4f4ab1e8a3")
 			(effects
 				(font
 					(size 1 1)
@@ -21521,7 +21026,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2caa15da-5d31-406b-a676-94fc050407a9")
+			(uuid "c4092d37-a7f8-49df-b5fd-34acfc139549")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21533,7 +21038,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8eb6159b-274e-4dee-93b0-f605389bc196")
+			(uuid "37882f6d-b5f5-4885-8151-1e7089c952b5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22559,114 +22064,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_4.3mm_M4"
-		(layer "F.Cu")
-		(uuid "ed2e86db-f3ca-426a-982f-78fc7c9dc3fc")
-		(at 64.835 122.855)
-		(descr "Mounting Hole 4.3mm, M4, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M4")
-		(property "Reference" "J3"
-			(at 0 -5.25 0)
-			(layer "F.SilkS")
-			(uuid "3bbe056b-c04b-4b7b-9d9e-d1e9f18646d5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01-Connector_Generic"
-			(at 0 5.25 0)
-			(layer "F.Fab")
-			(uuid "0674e72a-99db-45ed-bbe9-7449c0657a85")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5722ee54-3f52-4e8a-8655-21a0f1a056c4")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2d2d7600-5c72-4b28-9c1c-8e576b1027e4")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/73456c45-a65c-411e-9a8d-c0a6d406a144")
-		(sheetname "/")
-		(sheetfile "roba_R.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 4.3 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "41a45d66-75d2-4d77-864a-f6f915c34beb")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 4.55 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "7f851ad1-f0b8-4c50-8d1a-ef5ea8bc9870")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "3549ad09-5cc1-4148-9153-b87c8d26109f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 4.3 4.3)
-			(drill 4.3)
-			(layers "*.Cu" "*.Mask")
-			(uuid "d31e53ea-963e-4df8-b702-60581d893afc")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "f2b94e5e-caed-436c-ad4e-80bfba91f054")
-		(at 87.91 98.83)
+		(at 165 75.5)
 		(property "Reference" "SW8"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "6e68707a-577e-4083-b16b-569604538f6c")
+			(uuid "075b8415-3ba6-45d7-bc3f-e20c50c8faa2")
 			(effects
 				(font
 					(size 1 1)
@@ -22678,7 +22084,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "be6d252a-e277-4f28-a837-6389ff98e86d")
+			(uuid "eba05932-1bf2-46d3-86ec-73b6d610c4a2")
 			(effects
 				(font
 					(size 1 1)
@@ -22690,7 +22096,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15bf0036-28f3-41c6-bff8-a68f1dce2e34")
+			(uuid "43e1e22e-8141-43eb-9a8c-46fc81fe7bb5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22702,7 +22108,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c4acdd05-87b3-4aec-8f47-ec8bc789f4e0")
+			(uuid "a6302186-88ff-4fda-b0a9-57ee67742165")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23731,12 +23137,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "f3580738-0f4a-4142-9647-4b3e18e5eaf3")
-		(at 104.985 52.78)
+		(at 216 33)
 		(property "Reference" "SW9"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b0443bf6-f9e8-4ecd-9e59-fa84a6e3e1db")
+			(uuid "daade69b-abd1-44f5-819f-dbccff64209e")
 			(effects
 				(font
 					(size 1 1)
@@ -23748,7 +23154,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b36061eb-db77-4cdf-9d27-dee725b1c146")
+			(uuid "5a474212-13bc-4409-a287-46f5e5b65105")
 			(effects
 				(font
 					(size 1 1)
@@ -23760,7 +23166,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e8ed5fd-9a0a-4e5a-9198-19d36dcda787")
+			(uuid "37900363-e3c9-4e50-8314-df879c8504c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23772,7 +23178,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8bc2d902-08ba-42fd-9a16-e6a019630cd9")
+			(uuid "699330e6-70bf-494d-bb35-94e49542c224")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24801,12 +24207,12 @@
 	(footprint "roBa:pmw3610_connector"
 		(layer "F.Cu")
 		(uuid "f76062cb-ca66-4d7c-bbe4-4c0f04afa4b5")
-		(at 112.525 117.575)
+		(at 234.095 99.096251)
 		(property "Reference" "J1"
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "1bf08838-acc3-448f-8575-512840b1a82c")
+			(uuid "25cc629c-b422-4191-b7ce-ae2be595768a")
 			(effects
 				(font
 					(size 1 1)
@@ -24818,7 +24224,7 @@
 			(at 0 -11.2 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "80815034-da4d-4083-93c3-0532744a0a99")
+			(uuid "9cd2946d-70b7-4afe-a33f-7de4fa8f6a16")
 			(effects
 				(font
 					(size 1 1)
@@ -24831,7 +24237,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3460d69f-14dd-4066-955b-366e4cf05972")
+			(uuid "a337de8c-8e0b-425c-896f-1f082caf10fc")
 			(effects
 				(font
 					(size 1 1)
@@ -24844,7 +24250,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3c45e7d6-0827-41f2-be0b-17c09801932b")
+			(uuid "717a9e39-fc3a-42a4-b264-372d908ea8a1")
 			(effects
 				(font
 					(size 1 1)
@@ -25051,12 +24457,12 @@
 	(footprint "ChocV2_Hotswap:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "f9e59408-16a5-404c-8c9b-e66b855d11f7")
-		(at 104.985 83.48)
+		(at 216 67)
 		(property "Reference" "SW11"
 			(at -5.08 -6.35 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "0ddf89dd-fa67-4e61-827e-8075e18e531e")
+			(uuid "1ccfa6ac-f570-400d-b7c7-bdca9829de47")
 			(effects
 				(font
 					(size 1 1)
@@ -25068,7 +24474,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f749fb75-6d6d-402b-af3a-c060bdc3d68c")
+			(uuid "409d0b74-390a-411f-9fec-f066894585d8")
 			(effects
 				(font
 					(size 1 1)
@@ -25080,7 +24486,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2c7d5eed-a489-4dc6-8900-bfef79b87d34")
+			(uuid "3d9a97f8-830c-4a81-b0f5-ba2bcd1aec06")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25092,7 +24498,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b53e36f-27b4-4880-b7eb-63a803d4fad5")
+			(uuid "8a599610-a339-4c0e-8c42-38c557176e9f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26121,12 +25527,12 @@
 	(footprint "roBa:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "fc71df1f-c0d8-4f9a-9d5d-4f89d053813a")
-		(at 115.55 118.387826)
+		(at 197 32.25)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D5"
 			(at 3.302 0 0)
 			(layer "F.Fab")
-			(uuid "8dac79e3-bcca-4a1d-8440-bd23df00974a")
+			(uuid "44791693-c60f-427b-833b-f74444200a75")
 			(effects
 				(font
 					(size 1 1)
@@ -26138,7 +25544,7 @@
 			(at 3.2 -1.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a62f4f51-1e6b-409b-9413-cbd93c8872ae")
+			(uuid "89560a90-d4da-4eb3-bae1-d790629bd680")
 			(effects
 				(font
 					(size 1 1)
@@ -26151,7 +25557,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a46ca7ab-2bd2-46d9-8e7b-acb047a5dd83")
+			(uuid "2025cda8-8a4a-4411-9c09-c8e669553b60")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26164,7 +25570,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "646dd52a-0829-4111-8b5e-78f375319322")
+			(uuid "8e9f3d9d-e98c-4391-9573-03298753af81")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26266,6 +25672,86 @@
 			(uuid "a07bff18-87a9-4371-8445-16180859ab0e")
 		)
 		(embedded_fonts no)
+	)
+	(gr_line
+		(start 231.895 111)
+		(end 231.895 86)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1120de2b-9da0-4d70-bb2f-f6d1df7fe2f4")
+	)
+	(gr_line
+		(start 150 20)
+		(end 262 20)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1b23395a-59f3-4787-96e7-a1191120d5b3")
+	)
+	(gr_line
+		(start 262 20)
+		(end 262 111)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "206a7ee3-224b-4a9f-b9ec-3899630e752d")
+	)
+	(gr_line
+		(start 191 86)
+		(end 191 111)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2de4865e-26ad-4d76-ba72-aaf1718199f2")
+	)
+	(gr_line
+		(start 262 111)
+		(end 231.895 111)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "61e52596-762c-4238-ade9-75a30352f66a")
+	)
+	(gr_line
+		(start 231.895 86)
+		(end 191 86)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8d830a31-eecf-43ab-bdaf-792f9ebe6aeb")
+	)
+	(gr_line
+		(start 150 111)
+		(end 150 20)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b3e9bf26-fe72-4ee8-a3bf-3ce363c00192")
+	)
+	(gr_line
+		(start 191 111)
+		(end 150 111)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d79a5492-2e40-4d80-88df-622ec06ccbee")
 	)
 	(embedded_fonts no)
 )
